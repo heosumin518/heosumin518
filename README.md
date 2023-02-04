@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -8,7 +8,7 @@
 
 > 🏆 5 Contributions in the Year 2023
  > 
-> 📦 659 Bytes Used in GitHub's Storage 
+> 📦 661 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,7 +80,7 @@ C                        1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/heosumin518/heosumin518/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/02/2023 18:40:29 UTC
+ Last Updated on 04/02/2023 18:38:49 UTC
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heosumin518)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
