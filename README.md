@@ -8,7 +8,7 @@
 
 > 🏆 5 Contributions in the Year 2023
  > 
-> 📦 664 Bytes Used in GitHub's Storage 
+> 📦 666 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,7 +80,7 @@ C                        1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/heosumin518/heosumin518/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/02/2023 18:40:37 UTC
+ Last Updated on 07/02/2023 18:40:55 UTC
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heosumin518)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
