@@ -8,7 +8,7 @@
 
 > 🏆 5 Contributions in the Year 2023
  > 
-> 📦 671 Bytes Used in GitHub's Storage 
+> 📦 673 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,17 +45,18 @@ Sunday           3 commits       █░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C                        1 hr 53 mins        █████████████████████████   100.00 % 
+C                        1 hr 53 mins        ██████████████████████░░░   90.89 % 
+Python                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         ███████████████░░░░░░░░░░   60.57 % 
-Visual Studio            44 mins             █████████░░░░░░░░░░░░░░░░   39.43 % 
+VS Code                  1 hr 20 mins        ████████████████░░░░░░░░░   64.16 % 
+Visual Studio            44 mins             █████████░░░░░░░░░░░░░░░░   35.84 % 
 
 🐱‍💻 Projects: 
-c_practicing             1 hr 53 mins        █████████████████████████   100.00 % 
+c_practicing             2 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 53 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 4 mins        █████████████████████████   100.00 % 
 
 ```
 
@@ -76,7 +77,7 @@ C                        1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/heosumin518/heosumin518/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/02/2023 18:42:29 UTC
+ Last Updated on 11/02/2023 18:39:29 UTC
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heosumin518)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
