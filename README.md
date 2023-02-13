@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -8,7 +8,7 @@
 
 > 🏆 5 Contributions in the Year 2023
  > 
-> 📦 675 Bytes Used in GitHub's Storage 
+> 📦 676 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,20 +45,20 @@ Sunday           3 commits       █░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C#                       4 hrs 16 mins       ██████████████████████░░░   90.55 % 
-C                        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+C#                       5 hrs 4 mins        ████████████████████████░   95.84 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-Visual Studio            4 hrs 16 mins       ██████████████████████░░░   90.55 % 
-VS Code                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Visual Studio            5 hrs 4 mins        ████████████████████████░   95.84 % 
+VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🐱‍💻 Projects: 
-My project               4 hrs 16 mins       ██████████████████████░░░   90.55 % 
-c_practicing             26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+My project               5 hrs 4 mins        ████████████████████████░   95.84 % 
+c_practicing             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 💻 Operating System: 
-Windows                  4 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 17 mins       █████████████████████████   100.00 % 
 
 ```
 
@@ -79,7 +79,7 @@ C                        1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/heosumin518/heosumin518/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/02/2023 18:39:11 UTC
+ Last Updated on 13/02/2023 18:41:52 UTC
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heosumin518)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
