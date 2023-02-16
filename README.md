@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -8,7 +8,7 @@
 
 > 🏆 5 Contributions in the Year 2023
  > 
-> 📦 680 Bytes Used in GitHub's Storage 
+> 📦 681 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,7 +46,7 @@ Sunday           3 commits       █░░░░░░░░░░░░░░�
 
 💬 Programming Languages: 
 C#                       7 hrs 5 mins        ████████████████████████░   96.99 % 
-Python                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Python                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
@@ -54,8 +54,9 @@ Visual Studio            7 hrs 5 mins        ███████████�
 VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🐱‍💻 Projects: 
-My project               7 hrs 5 mins        ████████████████████████░   96.99 % 
+My project               7 hrs 5 mins        ████████████████████████░   96.93 % 
 c_practicing             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Player                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
 Windows                  7 hrs 18 mins       █████████████████████████   100.00 % 
@@ -79,7 +80,7 @@ C                        1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/heosumin518/heosumin518/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/02/2023 18:42:33 UTC
+ Last Updated on 16/02/2023 18:41:07 UTC
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heosumin518)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
