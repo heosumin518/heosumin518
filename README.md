@@ -8,7 +8,7 @@
 
 > 🏆 5 Contributions in the Year 2023
  > 
-> 📦 702 Bytes Used in GitHub's Storage 
+> 📦 704 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,17 +45,16 @@ Sunday           3 commits       █░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C#                       2 hrs 1 min         █████████████████████████   100.00 % 
+C#                       0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs 1 min         █████████████████████████   100.00 % 
+Visual Studio            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-My project               2 hrs 1 min         █████████████████████████   99.78 % 
-Player                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Player                   0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 
 ```
 
@@ -76,7 +75,7 @@ C                        1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/heosumin518/heosumin518/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/02/2023 18:39:38 UTC
+ Last Updated on 21/02/2023 18:40:15 UTC
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heosumin518)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
