@@ -6,7 +6,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 705 Bytes Used in GitHub's Storage 
+> 📦 706 Bytes Used in GitHub's Storage 
  > 
 > 🏆 7 Contributions in the Year 2023
  > 
@@ -72,7 +72,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/heosumin518/heosumin518/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2023 18:38:28 UTC
+ Last Updated on 11/03/2023 18:37:06 UTC
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heosumin518)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
