@@ -6,7 +6,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 722 Bytes Used in GitHub's Storage 
+> 📦 739 Bytes Used in GitHub's Storage 
  > 
 > 🏆 7 Contributions in the Year 2023
  > 
@@ -43,16 +43,16 @@ Sunday                   8 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       12 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -72,7 +72,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/heosumin518/heosumin518/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2023 18:36:57 UTC
+ Last Updated on 13/03/2023 18:38:45 UTC
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heosumin518)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
