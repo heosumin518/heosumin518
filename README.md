@@ -1,12 +1,12 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 739 Bytes Used in GitHub's Storage 
+> 📦 740 Bytes Used in GitHub's Storage 
  > 
 > 🏆 7 Contributions in the Year 2023
  > 
@@ -43,16 +43,20 @@ Sunday                   8 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C#                       12 mins             █████████████████████████   100.00 % 
+C++                      3 hrs 18 mins       ███████████████████████░░   90.75 % 
+C#                       20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 
 🔥 Editors: 
-Visual Studio            12 mins             █████████████████████████   100.00 % 
+Visual Studio            3 hrs 13 mins       ██████████████████████░░░   88.44 % 
+VS Code                  25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
 
 🐱‍💻 Projects: 
-Unknown Project          12 mins             █████████████████████████   100.00 % 
+Project1                 2 hrs 53 mins       ████████████████████░░░░░   78.98 % 
+GA2023                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Unknown Project          21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+Windows                  3 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -72,7 +76,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/heosumin518/heosumin518/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2023 18:38:45 UTC
+ Last Updated on 14/03/2023 18:48:05 UTC
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heosumin518)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
