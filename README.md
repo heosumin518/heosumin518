@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,21 +9,21 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C++                      19 hrs 57 mins      ███████████████████████░░   92.03 % 
-C#                       1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+C++                      22 hrs 27 mins      ████████████████████████░   95.00 % 
+C#                       1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Visual Studio            19 hrs 5 mins       ██████████████████████░░░   88.01 % 
-Rider                    1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-VS Code                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Visual Studio            22 hrs 1 min        ███████████████████████░░   93.16 % 
+Rider                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+VS Code                  26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 💻 Operating System: 
-Windows                  21 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/04/2023 18:39:21 UTC
+ Last Updated on 06/04/2023 18:35:30 UTC
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heosumin518)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
