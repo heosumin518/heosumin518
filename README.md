@@ -9,17 +9,19 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      2 hrs 59 mins       ███████████████████████░░   91.30 % 
+C                        15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            3 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/05/2023 18:35:09 UTC
+ Last Updated on 02/05/2023 18:35:13 UTC
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heosumin518)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
