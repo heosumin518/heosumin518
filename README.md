@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -23,7 +23,7 @@ Windows                  15 hrs 42 mins      ███████████�
 ```
 
 
- Last Updated on 11/05/2023 18:35:01 UTC
+ Last Updated on 12/05/2023 18:35:09 UTC
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heosumin518)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
