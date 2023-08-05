@@ -42,4 +42,4 @@ Windows                  13 hrs 33 mins      ███████████�
 
 ### Languages
 
-[![C++][Cplusplus]](https://isocpp.org/)
+[![C++][C++]](https://isocpp.org/)
