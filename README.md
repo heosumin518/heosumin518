@@ -48,4 +48,4 @@ Windows                  13 hrs 33 mins      ███████████�
 <!-------------------------------- Badge Links -------------------------------->
 
 <!-- Languages -->
-[C++]: https://img.shields.io/endpoint?url=https://badges.deno.dev/cplusplus
+[C++]: https://img.shields.io/endpoint?url=https://badges.deno.dev/C++
