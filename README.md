@@ -42,4 +42,10 @@ Windows                  13 hrs 33 mins      ███████████�
 
 ### Languages
 
-[![TypeScript][typescript]](https://www.typescriptlang.org/)
+[![C++][C++]](https://isocpp.org/)
+
+
+<!-------------------------------- Badge Links -------------------------------->
+
+<!-- Languages -->
+[C++]: https://img.shields.io/endpoint?url=https://badges.deno.dev/C++
