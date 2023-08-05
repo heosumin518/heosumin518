@@ -42,10 +42,11 @@ Windows                  13 hrs 33 mins      ███████████�
 
 ### Languages
 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 [![C++][C++]](https://isocpp.org/)
 
 <!-------------------------------- Badge Links -------------------------------->
 
 <!-- Languages -->
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+
 [C++]: https://img.shields.io/endpoint?url=https://badges.deno.dev/cplusplus
