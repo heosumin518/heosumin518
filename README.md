@@ -1,7 +1,9 @@
+<div align="center">
+
 <!--START_SECTION:waka-->
 
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,6 +29,7 @@ Windows                  13 hrs 33 mins      ███████████�
 
  Last Updated on 04/08/2023 18:35:08 UTC
 <!--END_SECTION:waka-->
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heosumin518)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
@@ -36,17 +39,23 @@ Windows                  13 hrs 33 mins      ███████████�
 
 [![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
 ---
 
 ## Skills
 
 ### Languages
 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-[![C++][C++]](https://isocpp.org/)
 
-<!-------------------------------- Badge Links -------------------------------->
+### Frameworks & Libraries
 
-<!-- Languages -->
+DirectX
 
-[C++]: https://img.shields.io/endpoint?url=https://badges.deno.dev/cplusplus
+### Now I'm Studying..
+
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white"/>
+
