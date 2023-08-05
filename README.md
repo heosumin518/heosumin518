@@ -27,7 +27,7 @@ Windows                  13 hrs 33 mins      ███████████�
 <!--END_SECTION:waka-->
 <div align="center">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heosumin518)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heosumin518)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
