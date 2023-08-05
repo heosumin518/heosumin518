@@ -42,4 +42,4 @@ Windows                  13 hrs 33 mins      ███████████�
 
 ### Languages
 
-[![C++][C++]](https://isocpp.org/)
+[![TypeScript][typescript]](https://www.typescriptlang.org/)
