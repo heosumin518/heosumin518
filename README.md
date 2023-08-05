@@ -47,9 +47,10 @@ Windows                  13 hrs 33 mins      ███████████�
 ![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%209%20mins-blue)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+[![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heosumin)](https://solved.ac/heosumin)
-[![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
 
 
 ---
