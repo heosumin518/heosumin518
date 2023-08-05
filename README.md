@@ -1,8 +1,4 @@
-<div align="center">
-
 <!--START_SECTION:waka-->
-
-
 
 
 📊 **This Week I Spent My Time On** 
@@ -29,6 +25,7 @@ Windows                  13 hrs 33 mins      ███████████�
 
  Last Updated on 04/08/2023 18:35:08 UTC
 <!--END_SECTION:waka-->
+<div align="center">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heosumin518)](https://github.com/anuraghazra/github-readme-stats)
 
