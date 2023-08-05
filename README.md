@@ -35,3 +35,11 @@ Windows                  13 hrs 33 mins      ███████████�
 ![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%209%20mins-blue)
 
 [![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
+
+---
+
+##Skills
+
+### Languages
+
+[![C++][Cplusplus]](https://isocpp.org/)
