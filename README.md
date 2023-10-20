@@ -62,7 +62,7 @@ Windows                  13 hrs 25 mins      ███████████�
 
 ### Frameworks & Libraries
 
-DirectX
+DirectX11
 
 ### Now I'm Studying..
 
