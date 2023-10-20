@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2016%20mins-blue)
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2016%20mins-blue) -->
 
 [![wakatime](https://wakatime.com/badge/user/43ed9a98-1ee0-44e0-b888-3f89bf31dc0b.svg)](https://wakatime.com/@43ed9a98-1ee0-44e0-b888-3f89bf31dc0b)
 
