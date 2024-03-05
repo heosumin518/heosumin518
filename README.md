@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-997%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C005%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -9,17 +9,22 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      4 hrs 44 mins       █████████████████░░░░░░░░   66.47 % 
+YAML                     1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Markdown                 1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            4 hrs 45 mins       █████████████████░░░░░░░░   66.62 % 
+VS Code                  2 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   33.38 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/03/2024 18:36:16 UTC
+ Last Updated on 05/03/2024 18:35:14 UTC
 <!--END_SECTION:waka-->
 
 
