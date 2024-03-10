@@ -58,13 +58,14 @@ Windows                  17 hrs 44 mins      ███████████�
 
 ### Languages
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<span><!-- C --><img src="https://img.shields.io/badge/-C-black?style=flat&logo=c%2B%2B" style="height: auto; margin-left: 2px; margin-right: 2px;"/></span>
+<span><!-- C# --><img src="https://img.shields.io/badge/-C%23%20-black?style=flat&logo=C%20Sharp" style="height: auto; margin-left: 2px; margin-right: 2px;"/></span>
+<span><!-- C++ --><img src="https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B" style="height: auto; margin-left: 2px; margin-right: 2px;"/></span>
 
 ### Frameworks & Libraries
 
-DirectX11
-
-### Now I'm Studying..
-
-<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white"/>
+<span><!-- DirectX --><img src="https://img.shields.io/badge/direct%20x%20-%23313131.svg?&style=flat&logo=Microsoft&logoColor=white" style="height: auto; margin-left: 2px; margin-right: 2px;"/></span>
+<span><!-- Unity --><img src="https://img.shields.io/badge/unity%20-%23313131.svg?&style=flat&logo=unity&logoColor=white" style="height: auto; margin-left: 2px; margin-right: 2px;"/></span>
+<span><!-- Unreal Engine --><img src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=flat&logo=unreal%20engine&logoColor=white" style="height: auto; margin-left: 2px; margin-right: 2px;"/></span>
+<span><!-- Blender --><img src="https://img.shields.io/badge/blender%20-%25515151.svg?&style=flat&logo=blender&logoColor=white" style="height: auto; margin-left: 2px; margin-right: 2px;"/></span>
 
