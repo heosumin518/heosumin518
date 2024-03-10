@@ -1,3 +1,6 @@
+<a href="https://heosumin518.github.io"><img src="https://img.shields.io/badge/Tech Blog-222222?style=flat-square&logo=github&logoColor=ffffff"/></a>
+<a href="mailto:heosumin518@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/></a>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C015%20hrs%203%20mins-blue)
 
