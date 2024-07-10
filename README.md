@@ -2,7 +2,7 @@
 <a href="mailto:heosumin518@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C216%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C219%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -12,19 +12,20 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C++                      9 hrs               █████████████████████████   98.88 % 
-HLSL                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+C++                      10 hrs 55 mins      █████████████████████████   98.93 % 
+HLSL                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Visual Studio            9 hrs 6 mins        █████████████████████████   100.00 % 
+Visual Studio            11 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  11 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/07/2024 18:38:50 UTC
+ Last Updated on 10/07/2024 18:40:13 UTC
 <!--END_SECTION:waka-->
 
 
