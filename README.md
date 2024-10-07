@@ -6,25 +6,8 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-C++                      6 hrs 11 mins       ████████████████████████░   95.65 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-
-🔥 Editors: 
-Visual Studio            6 hrs 11 mins       ████████████████████████░   95.76 % 
-VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-
-💻 Operating System: 
-Windows                  6 hrs 28 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 06/10/2024 18:40:21 UTC
+ Last Updated on 07/10/2024 18:42:54 UTC
 <!--END_SECTION:waka-->
 
 
