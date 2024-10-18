@@ -2,30 +2,12 @@
 <a href="mailto:heosumin518@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C432%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C437%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-C++                      22 hrs 28 mins      █████████████████████████   99.51 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-C                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-🔥 Editors: 
-Visual Studio            22 hrs 35 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  22 hrs 35 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 17/10/2024 18:43:32 UTC
+ Last Updated on 18/10/2024 18:43:30 UTC
 <!--END_SECTION:waka-->
 
 
