@@ -1,34 +1,39 @@
-<a href="https://heosumin518.github.io"><img src="https://img.shields.io/badge/Tech Blog-222222?style=flat-square&logo=github&logoColor=ffffff"/></a>
-<a href="mailto:heosumin518@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/></a>
+<div align="center">
 
-<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C521%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+<details>
+  <summary>📊 WakaTime</summary>
 
-📊 **This Week I Spent My Time On** 
+  <!--START_SECTION:waka-->
 
-```text
-🕑︎ Time Zone: Asia/Seoul
+<div align="left">
 
-💬 Programming Languages: 
-C++                      2 hrs 5 mins        █████████████████████████   100.00 % 
+  ### This Week I Spent My Time On
+  ```text
+  🕑︎ Time Zone: Asia/Seoul
 
-🔥 Editors: 
-Visual Studio            2 hrs 5 mins        █████████████████████████   100.00 % 
+  💬 Programming Languages: 
+  C++                      2 hrs 5 mins        █████████████████████████   100.00 % 
 
-💻 Operating System: 
-Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
+  🔥 Editors: 
+  Visual Studio            2 hrs 5 mins        █████████████████████████   100.00 % 
+
+  💻 Operating System: 
+  Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
 ```
+Last Updated on 19/11/2024 18:45:06 UTC
 
-
- Last Updated on 19/11/2024 18:45:06 UTC
+</div>
 <!--END_SECTION:waka-->
 
+[![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
 
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heosumin518)](https://github.com/anuraghazra/github-readme-stats) -->
+</details>
 
-<!-- markdownlint-disable MD033 -->
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heosumin518)](https://github.com/anuraghazra/github-readme-stats) -->  
+
+<!-- markdownlint-disable MD033 -->  
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
   <img
     src="https://github-readme-stats.vercel.app/api?username=heosumin518&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
@@ -36,6 +41,7 @@ Windows                  2 hrs 5 mins        ███████████�
     height="160"
   />
 </a>
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=heosumin518&hide=css,tex&hide_title=true&layout=compact&langs_count=8&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
@@ -43,9 +49,8 @@ Windows                  2 hrs 5 mins        ███████████�
   />
 </a>
 
-[![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518) [![Solved.ac
+[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heosumin)](https://solved.ac/heosumin)
-
 
 ---
 
@@ -64,3 +69,11 @@ Windows                  2 hrs 5 mins        ███████████�
 <span><!-- Unreal Engine --><img src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=flat&logo=unreal%20engine&logoColor=white" style="height: auto; margin-left: 2px; margin-right: 2px;"/></span>
 <span><!-- Blender --><img src="https://img.shields.io/badge/blender%20-%25515151.svg?&style=flat&logo=blender&logoColor=white" style="height: auto; margin-left: 2px; margin-right: 2px;"/></span>
 
+---
+
+<a href="https://heosumin518.github.io"><img src="https://img.shields.io/badge/Tech Blog-222222?style=flat-square&logo=github&logoColor=ffffff"/></a>  
+<a href="mailto:heosumin518@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/></a>  
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+
+</div>
