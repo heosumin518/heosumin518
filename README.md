@@ -2,6 +2,8 @@
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C521%20hrs%2056%20mins-blue)
 
+[포트폴리오 링크](https://plaid-breakfast-07b.notion.site/144909474ddc80258492d7dfc0e2a947?pvs=4)
+
 <details>
   <summary>📊 WakaTime</summary>
 
