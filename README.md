@@ -8,7 +8,7 @@
   <summary>📊 WakaTime</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C523%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C526%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -18,17 +18,19 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       1 hr 33 mins        ████████████████░░░░░░░░░   64.50 % 
+XAML                     29 mins             █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+Binary                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            2 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/12/2024 18:43:26 UTC
+ Last Updated on 02/12/2024 18:46:39 UTC
 <!--END_SECTION:waka-->
 
 [![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
