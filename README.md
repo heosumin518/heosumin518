@@ -28,7 +28,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/12/2024 18:47:07 UTC
+ Last Updated on 12/12/2024 18:47:03 UTC
 <!--END_SECTION:waka-->
 
 [![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
