@@ -8,12 +8,28 @@
   <summary>📊 WakaTime</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C529%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C529%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 07/01/2025 18:43:30 UTC
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+C++                      37 mins             ████████████████████████░   97.84 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+
+🔥 Editors: 
+Visual Studio            38 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  38 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 08/01/2025 18:43:35 UTC
 <!--END_SECTION:waka-->
 
 [![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
