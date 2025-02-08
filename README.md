@@ -18,20 +18,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C++                      36 mins             ███████████████████░░░░░░   75.71 % 
-C                        11 mins             ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Unknown Editor           36 mins             ███████████████████░░░░░░   75.05 % 
-VS Code                  12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/02/2025 18:42:35 UTC
+ Last Updated on 08/02/2025 18:39:23 UTC
 <!--END_SECTION:waka-->
 
 [![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
