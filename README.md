@@ -33,7 +33,7 @@ Windows                  11 hrs 58 mins      ███████████�
 ```
 
 
- Last Updated on 11/05/2025 18:44:00 UTC
+ Last Updated on 12/05/2025 18:48:32 UTC
 <!--END_SECTION:waka-->
 
 [![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
