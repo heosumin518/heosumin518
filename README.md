@@ -1,7 +1,5 @@
 <div align="center">
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C556%20hrs%2019%20mins-blue)
-
 [포트폴리오 링크](https://plaid-breakfast-07b.notion.site/144909474ddc80258492d7dfc0e2a947?pvs=4)
 
 <details>
