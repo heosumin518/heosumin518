@@ -10,29 +10,8 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Python                   6 hrs 2 mins        ███████████████████░░░░░░   75.70 % 
-C++                      54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Java                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 19 mins       ████████████████████░░░░░   79.18 % 
-Visual Studio            54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-NetBeans                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-
-💻 Operating System: 
-Windows                  7 hrs 59 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 16/06/2025 18:50:16 UTC
+ Last Updated on 17/06/2025 18:50:03 UTC
 <!--END_SECTION:waka-->
 
 [![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
