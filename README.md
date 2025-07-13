@@ -30,7 +30,7 @@ Windows                  9 hrs 48 mins       ███████████�
 ```
 
 
- Last Updated on 12/07/2025 18:48:14 UTC
+ Last Updated on 13/07/2025 18:48:09 UTC
 <!--END_SECTION:waka-->
 
 [![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
