@@ -6,7 +6,7 @@
   <summary>📊 WakaTime</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C628%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C628%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -16,21 +16,20 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C++                      9 hrs 39 mins       █████████████████████████   98.46 % 
-C                        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+C++                      7 hrs 50 mins       █████████████████████████   98.56 % 
+C                        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 12 mins       █████████████░░░░░░░░░░░░   53.13 % 
-Visual Studio            4 hrs 35 mins       ████████████░░░░░░░░░░░░░   46.87 % 
+VS Code                  5 hrs 16 mins       █████████████████░░░░░░░░   66.16 % 
+Visual Studio            2 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   33.84 % 
 
 💻 Operating System: 
-Windows                  9 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/07/2025 18:48:09 UTC
+ Last Updated on 14/07/2025 18:53:55 UTC
 <!--END_SECTION:waka-->
 
 [![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
