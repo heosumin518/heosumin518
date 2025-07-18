@@ -6,12 +6,31 @@
   <summary>📊 WakaTime</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C637%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C638%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 17/07/2025 18:53:45 UTC
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+C++                      8 hrs 33 mins       ████████████████░░░░░░░░░   62.68 % 
+Markdown                 2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+YAML                     1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+C                        16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+
+🔥 Editors: 
+VS Code                  13 hrs 38 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  13 hrs 38 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 18/07/2025 18:52:06 UTC
 <!--END_SECTION:waka-->
 
 [![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
