@@ -6,7 +6,7 @@
   <summary>📊 WakaTime</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C650%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C651%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -16,19 +16,19 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C++                      3 hrs 42 mins       ████████████████░░░░░░░░░   63.58 % 
-Blender                  2 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.42 % 
+C++                      2 hrs 31 mins       ██████████████░░░░░░░░░░░   54.31 % 
+Blender                  2 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.69 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 42 mins       ████████████████░░░░░░░░░   63.58 % 
-Blender                  2 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.42 % 
+VS Code                  2 hrs 31 mins       ██████████████░░░░░░░░░░░   54.31 % 
+Blender                  2 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.69 % 
 
 💻 Operating System: 
-Windows                  5 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/08/2025 18:53:59 UTC
+ Last Updated on 02/08/2025 18:50:54 UTC
 <!--END_SECTION:waka-->
 
 [![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
