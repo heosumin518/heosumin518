@@ -10,8 +10,23 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 05/08/2025 18:57:17 UTC
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+C++                      3 hrs 5 mins        █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 5 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  3 hrs 5 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 06/08/2025 18:54:19 UTC
 <!--END_SECTION:waka-->
 
 [![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
