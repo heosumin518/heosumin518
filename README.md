@@ -10,23 +10,8 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Blender                  3 hrs 15 mins       █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Blender                  3 hrs 15 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  3 hrs 15 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 07/09/2025 18:42:05 UTC
+ Last Updated on 08/09/2025 18:46:37 UTC
 <!--END_SECTION:waka-->
 
 [![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
