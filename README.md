@@ -16,18 +16,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C#                       12 mins             ████████████████████████░   97.05 % 
-Binary                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/03/2026 18:56:14 UTC
+ Last Updated on 02/03/2026 19:10:19 UTC
 <!--END_SECTION:waka-->
 
 [![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
