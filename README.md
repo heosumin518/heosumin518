@@ -16,19 +16,19 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C#                       1 hr 33 mins        ██████████████████░░░░░░░   70.80 % 
-C++                      20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Binary                   18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+C#                       1 hr 22 mins        █████████████████░░░░░░░░   68.12 % 
+C++                      20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Binary                   18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs 12 mins       █████████████████████████   100.00 % 
+Visual Studio            2 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/03/2026 19:32:48 UTC
+ Last Updated on 17/03/2026 19:32:52 UTC
 <!--END_SECTION:waka-->
 
 [![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
