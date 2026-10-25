@@ -6,7 +6,7 @@
   <summary>📊 WakaTime</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C661%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C666%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -16,15 +16,15 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C++                      7 hrs 13 mins       ████████████████████████░   97.28 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+C++                      9 hrs 56 mins       █████████████████████████   98.01 % 
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔥 Editors: 
-Visual Studio            7 hrs 13 mins       ████████████████████████░   97.28 % 
-VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Visual Studio            9 hrs 56 mins       █████████████████████████   98.01 % 
+VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 💻 Operating System: 
-Windows                  7 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -34,7 +34,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 24/10/2026 21:02:31 UTC
+ Last Updated on 25/10/2026 21:04:07 UTC
 <!--END_SECTION:waka-->
 
 [![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
