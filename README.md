@@ -16,15 +16,13 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C++                      9 hrs 56 mins       █████████████████████████   98.01 % 
-Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+C++                      5 hrs 52 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            9 hrs 56 mins       █████████████████████████   98.01 % 
-VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Visual Studio            5 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -34,7 +32,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 25/10/2026 21:04:07 UTC
+ Last Updated on 26/10/2026 22:48:51 UTC
 <!--END_SECTION:waka-->
 
 [![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=heosumin518&layout=compact&count_private=true)](https://wakatime.com/@heosumin518)
